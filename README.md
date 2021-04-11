@@ -1,4 +1,4 @@
-# Course: Hibernate JPA
+# Course: Hibernate JPA H2
 
 - **Year**: 2019
 - **Platform**: Youtube
